@@ -25,3 +25,8 @@ else
 sleep 1
 
 sudo cp -r $REPO/* /var/www/html
+
+
+Dejo esto por aca porque en el otra chat se me va a perder jeje 
+
+DISCORD="https://discord.com/api/webhooks/1169002249939329156/7MOorDwzym-yBUs3gp0k5q7HyA42M5eYjfjpZgEwmAx1vVVcLgnlSh4TmtqZqCtbupov"
